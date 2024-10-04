@@ -1,4 +1,5 @@
 Human Activity Recognition using SVM
+
 This project demonstrates the implementation of Human Activity Recognition (HAR) using Support Vector Machine (SVM). The goal is to classify various human activities based on data from accelerometers or gyroscopes. HAR has applications in healthcare, sports, and smart devices.
 
 Dataset
@@ -36,8 +37,6 @@ bash
 Copy code
 jupyter notebook Human\ Activity\ Recognition.ipynb
 Follow the steps in the notebook to load the dataset, preprocess the data, and train the SVM model.
-Results
-The model achieves an accuracy of XX% on the test dataset. Below are some key performance metrics:
 
 Future Work
 Implement other machine learning models such as Random Forest, K-Nearest Neighbors, or Neural Networks for comparison.
